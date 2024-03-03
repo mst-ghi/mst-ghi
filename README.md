@@ -1,8 +1,6 @@
 # 👋 Hi there I'm mostafa (mst-ghi)  ![GitHub followers](https://img.shields.io/github/followers/mst-ghi)
 ⚡ Back-end and Front-end Developer with over 7 years of experience. </br>
-⚡ My expertise lies in PHP, Nodejs, Vuejs, and Reactjs, along with frameworks like Laravel, Lumen, Nest.js, Nuxt.js, and Next.js. </br>
-⚡ I have a background in microservices, Kafka, Socket programming, monorepos, caching, and queues.
-Throughout my career, I have successfully delivered robust and scalable solutions, ensuring optimal performance and user satisfaction.
+⚡ My expertise encompasses PHP, Node.js, Vue.js, and React.js, supplemented by proficiency in frameworks such as Laravel, Lumen, Nest.js, Nuxt.js, and Next.js. Additionally, I possess a background in microservices architecture, Kafka, socket programming, turborepo, caching strategies, and queue management.
 </br>
 </br>
-**I have chosen to continue my career path by focusing on the NestJS backend framework and NextJS frontend framework.**
+⚡ **I am also currently learning Golang and actively uploading diverse projects developed with this language to GitHub.**
