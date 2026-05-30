@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer with **8+ years** of experience building scalable web applications. I specialize in **Node.js (NestJS)** and **Golang (Gin)** on the backend, paired with **React/Next.js** on the frontend — with a strong focus on clean code, feature-driven design, and maintainable systems.
+I'm a software engineer with **9+ years** of experience building scalable web applications. I specialize in **Node.js (NestJS)** and **Golang (Gin)** on the backend, paired with **React/Next.js** on the frontend — with a strong focus on clean code, feature-driven design, and maintainable systems.
 
 For the past four years, I've been deeply focused on **NestJS + Next.js** stacks, **Turborepo monorepos**, shared component libraries, and **microservices architecture** (Kafka, Redis, socket programming). I'm now actively expanding into **Golang** for high-performance, concurrent backend services using the **Gin framework**.
 
