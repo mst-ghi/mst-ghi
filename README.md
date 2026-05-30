@@ -63,14 +63,6 @@ I've built and maintained multi-tenant platforms, real-time dashboards, and high
 
 ---
 
-## 📈 GitHub Stats
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mst-ghi&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-ghi&layout=compact&theme=radical&langs_count=6)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-ghi/)
