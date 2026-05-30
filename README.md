@@ -67,7 +67,7 @@ I've built and maintained multi-tenant platforms, real-time dashboards, and high
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-ghi/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5C2?logo=telegram&logoColor=white)](https://t.me/@mostafa_ghi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafa.gholami@example.com) <!-- Replace with real email -->
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafagholamidev@gmail.com) <!-- Replace with real email -->
 
 ---
 
